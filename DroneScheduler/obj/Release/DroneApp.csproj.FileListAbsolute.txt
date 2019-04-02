@@ -1,0 +1,10 @@
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneScheduler\obj\Release\DroneApp.csprojAssemblyReference.cache
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneScheduler\obj\Release\DroneApp.csproj.CoreCompileInputs.cache
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneScheduler\bin\Release\DroneScheduler.exe.config
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneScheduler\bin\Release\DroneScheduler.exe
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneScheduler\bin\Release\DroneScheduler.pdb
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneScheduler\obj\Release\DroneApp.csproj.CopyComplete
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneScheduler\obj\Release\DroneScheduler.exe
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneScheduler\obj\Release\DroneScheduler.pdb
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneScheduler\bin\Release\DroneProject.dll
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneScheduler\bin\Release\DroneProject.pdb

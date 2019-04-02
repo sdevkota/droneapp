@@ -1,0 +1,6 @@
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneProject\bin\Release\DroneProject.dll
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneProject\bin\Release\DroneProject.pdb
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneProject\obj\Release\DroneProject.csproj.CoreCompileInputs.cache
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneProject\obj\Release\DroneProject.dll
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneProject\obj\Release\DroneProject.pdb
+C:\Users\bd106088\Desktop\Code\DroneApp\DroneScheduler\DroneProject\obj\Release\DroneProject.csprojAssemblyReference.cache
