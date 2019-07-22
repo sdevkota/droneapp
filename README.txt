@@ -27,7 +27,7 @@ I chose to C# because this is what I am more comfortable with
 
 Run the application and enter the path of the file in the following format: 
 
-c:\users\sd106099\desktop\orders.txt
+c:\users\sudeep\desktop\orders.txt
 
 App will write the path of the output file on the console
 
